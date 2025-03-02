@@ -112,7 +112,9 @@ body.dark-theme #testimonial:before{
   background-color: rgb(18, 18, 26);
   
 }
-
+.lead{
+  color: white;
+}
 body.dark-theme #testimonial h2{
   color: #b3b2b8;
 }
