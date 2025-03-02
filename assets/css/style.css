@@ -16,7 +16,7 @@ body.light-theme {
 }
 
 body.light-theme .navbar, body.light-theme .footer {
-  background-color: #f8f9fa;
+  /* background-color: #f8f9fa; */
   color: #000000;
 }
 
